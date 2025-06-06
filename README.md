@@ -1,6 +1,7 @@
 # Hyperspectral Image Denoising
 
 
+![poster](https://github.com/user-attachments/assets/5ae5e797-11f2-41d0-b9ad-3232585a61bc)
 
 This project focuses on **hyperspectral image (HSI) denoising** using a diffusion-based generative framework. Building upon the **Diff-Unmix** architecture, we enhance spectral-spatial restoration through two major contributions:
 - A **custom loss function** combining perceptual loss and SVD-based thresholding.
